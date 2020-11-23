@@ -28,7 +28,7 @@
 - It was trained for 10 epochs.
 
 
-3. So far 3 mini-games have been created in Python:  
+3. 3 mini-games created in Python:  
 <pre>
     1. Dice roll simulator 
     2. Number guessing game
