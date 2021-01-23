@@ -13,7 +13,8 @@
   <pre>
   re-shaping into 4D to make it compatible with Keras API
   type conversion to float
-  normalization using max. RGB value <pre>
+  normalization using max. RGB value
+  <pre>
 - A Sequential model was used. 6 Layers were added:
   <pre>
   Conv2D
